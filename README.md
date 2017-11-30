@@ -10,4 +10,4 @@ Collection of radare2 usage tips, articles, presentations and videos.
 
 
 ## Android 
-1.  [Android malware analysis with Radare: Dissecting the Triada Trojan](https://www.nowsecure.com/blog/2016/11/21/android-malware-analysis-radare-triada-trojan/)
+1. [Article] [Android malware analysis with Radare: Dissecting the Triada Trojan](https://www.nowsecure.com/blog/2016/11/21/android-malware-analysis-radare-triada-trojan/)
