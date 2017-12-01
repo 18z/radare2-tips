@@ -7,6 +7,7 @@ Collection of radare2 usage tips, articles, presentations and videos.
 1. [Article] [A journey into Radare 2 – Part 1: Simple crackme](https://www.megabeets.net/a-journey-into-radare-2-part-1/)
 2. [Article] [A journey into Radare 2 – Part 2: Exploitation](https://www.megabeets.net/a-journey-into-radare-2-part-2/)
 3. [Slides]  [Digging into radare2 for fun and profit @AvTokyo2017 speaker: pancake](r2avtokyo-en.pdf)
+4. [Article] [An Introduction to radare2](http://sushant94.me/2015/05/31/Introduction_to_radare2/)
 
 
 ## Android 
