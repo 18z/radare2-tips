@@ -13,3 +13,4 @@ Collection of radare2 usage tips, articles, presentations and videos.
 ## Android 
 1. [Article] [Android malware analysis with Radare: Dissecting the Triada Trojan](https://www.nowsecure.com/blog/2016/11/21/android-malware-analysis-radare-triada-trojan/)
 2. [Article] [Configuring and running Radare2 on Android mobile phones](radare2_arm_android.pdf)
+3. [Project] [apk-anal - Android APK analyzer based on radare2 and others](https://github.com/mhelwig/apk-anal)
